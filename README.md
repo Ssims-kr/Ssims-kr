@@ -1,5 +1,5 @@
 # My personal Blog
-* [Ssims - Naver Blog](https://blog.naver.com/dick--) = Not Managed.
+* ~~[Ssims - Naver Blog](https://blog.naver.com/dick--) = Not Managed.~~
 * [Tistory Blog](https://y-s2.tistory.com/) = Main Blog.
 
 # Stats
