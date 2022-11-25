@@ -47,6 +47,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssims-kr&layout=compact&theme=default)
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Ssims-kr)
    
+<h3>Baekjoon</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imhappy)](https://solved.ac/imhappy/)
+   
 </p>
+
+<h2>D-Day</h2>
 
 [![Moon.svg](https://dday-widget.minung.dev/widget?theme=theme2&text=New%20Year%20%F0%9F%99%82&date=2023-01-01&startDate=2022-01-01)](https://dday-widget.minung.dev)
