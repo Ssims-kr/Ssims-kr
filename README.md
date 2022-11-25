@@ -1,9 +1,4 @@
-<div width="100%">
-   
-   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&animation=fadeIn&text=Ssims&desc=Hello&descAlignY=70&fontSize=90)
-   
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=I%20am%20Ssims!&animation=fadeIn&desc=Hello&descAlignY=70)
 
 <h2>About Me</h2>
 
@@ -54,4 +49,4 @@
    
 </p>
 
-<h2>Project</h2>
+[![Moon.svg](https://dday-widget.minung.dev/widget?theme=theme2&text=New%20Year%20%F0%9F%99%82&date=2023-01-01&startDate=2022-01-01)](https://dday-widget.minung.dev)
