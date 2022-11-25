@@ -1,3 +1,10 @@
+<div width="100%">
+   
+   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&animation=fadeIn&text=Ssims&desc=Hello&descAlignY=70&fontSize=90)
+   
+</div>
+
+
 <h2>About Me</h2>
 
 <h3>Blog</h3>
