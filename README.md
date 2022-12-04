@@ -5,7 +5,6 @@
 <h3>Blog</h3>
 <p>
    <b><a title="Ssims" href="https://y-s2.tistory.com"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"></a></b>
-   <b><a title="Ssims" href="https://blog.naver.com/dick--"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a></b>
 </p>
 
 <h3>Skills</h3>
