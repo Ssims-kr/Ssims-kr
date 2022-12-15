@@ -23,7 +23,7 @@
 </p>
 
 <h3>Release</h3>
-- [Random Meme](https://store.whale.naver.com/detail/ljceikemhgajagppknbdjmngocmgigff, "Naver Whale Browser Extended App")
+- <a href="https://store.whale.naver.com/detail/ljceikemhgajagppknbdjmngocmgigff" title="Naver Whale Browser Extended App - Random Meme" target="_blank" rel="noopener noreferrer">Random Meme App</a>
 
 <h3>Tools</h3>
 <p align="left" dir="auto">
